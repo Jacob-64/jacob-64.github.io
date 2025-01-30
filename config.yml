@@ -1,4 +1,9 @@
-name: "GitHub Repository Configuration"
+name: "GitHub Pages Configuration"
+
+github_pages:
+  enabled: true
+  branch: "main"
+  target_folder: "/"
 
 dependabot:
   version: 2
